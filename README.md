@@ -14,7 +14,7 @@ Files:
 
 3.login.php
 
-  This script displays the login form.After successful login,the user is sent to a page where they can enter donation details(info.php).
+  This script displays the login form.After successful login,the user is sent to a page where they can enter donation details(donate.php).
 
 4.donate.php 
    
@@ -30,3 +30,4 @@ Files:
 7. profile.php
 
  This script show user needful information ,After successful login,the user is sent to a page where they can see their profile(profile.php).
+ 
